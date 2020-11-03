@@ -1,5 +1,5 @@
 # Pokebase
-Base de datos de los primeros 150 Pokémon, uso ilustrativo para trabajo con alumnos de bachillerato.
+Base de datos de los primeros 150 Pokémon, uso ilustrativo para trabajar temas de bases de datos, y desarrollo de interfaces web.
 
 # Tablas
 1. Categoria.
