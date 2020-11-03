@@ -10,7 +10,7 @@ Base de datos de los primeros 150 Pokémon, uso ilustrativo para trabajar temas 
 7. PokemonDebilidad.
 8. PokemonHabilidad.
 
-# Supuestos derivados del Modelo Relacional.
+# Supuestos derivados del Modelo Relacional
 
 1. A un Pokémon le corresponde una sola categoría (escenario propuesto).
 2. Un Pokémon puede tener distintos tipos.
