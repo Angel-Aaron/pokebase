@@ -1,5 +1,5 @@
 # Pokebase
-Base de datos de los primeros 150 Pokémon, uso ilustrativo para trabajar temas de bases de datos, y desarrollo de interfaces web.
+Base de datos de los primeros 150 Pokémon, uso ilustrativo para trabajar temas de bases de datos, y desarrollo de interfaces web. La BD se conforma de 8 Tablas.
 
 # Tablas
 1. Categoria.
@@ -7,8 +7,9 @@ Base de datos de los primeros 150 Pokémon, uso ilustrativo para trabajar temas 
 3. Pokemon.
 4. Debilidad.
 5. Habilidad.
-7. PokemonDebilidad.
-8. PokemonHabilidad.
+6. PokemonDebilidad.
+7. PokemonHabilidad.
+8. PokemonTipo.
 
 # Supuestos derivados del Modelo Relacional
 
